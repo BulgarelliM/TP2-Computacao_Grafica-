@@ -49,5 +49,6 @@ Professora Isabel Harb Manssour(PUCRS) - pela base da main.c
 OBS.: Animais e arvores foram desenhados no blender
 	sim, nossos porcos vivem junto com as galinhas e eles pulam
 	O coelho parece um gato e é ele quem vigia os demais.
-
+	
+	Optamos por usar uma GALINHA ao invés de uma VACA
 
